@@ -3,7 +3,7 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/praval-gupta-264347318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/praval-gupta)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/praval7_champ_22/?hl=en)
 
 ---

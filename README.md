@@ -4,11 +4,7 @@
 
 **B.Tech | Electrical Engineering | IIT Tirupati (2023-27)**  
 🚀 Passionate about Machine Learning, Signal Processing, NLP and Digital Domain.  
-🌐 [LinkedIn](www.linkedin.com/in/praval-gupta-264347318) | [GitHub]((https://github.com/PravalX))
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+🌐 [LinkedIn](www.linkedin.com/in/praval-gupta-264347318) | [GitHub](https://github.com/PravalX)
 
 ---
 

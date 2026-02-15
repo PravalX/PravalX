@@ -22,7 +22,7 @@
 ### Multimodal Learning for 6G Wireless Communications  (CONVERGE Challenge).
 🥇 **🏆 Winner – Task 1 (Blockage Prediction) | IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)** 
 📄 Accepted for publication & presentation at ICASSP 2026
-This project presents a vision-first multimodal framework for proactive mm-Wave link prediction in FR2 systems by fusing RGB-D vision and mm-Wave radio measurements.
+- This project presents a vision-first multimodal framework for proactive mm-Wave link prediction in FR2 systems by fusing RGB-D vision and mm-Wave radio measurements.
 - 📡 Developed robust solutions for both:
         - Task-1 : Blockage Prediction
         - Task-2: UE Localization and Prediction

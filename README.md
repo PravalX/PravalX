@@ -27,9 +27,8 @@ This project presents a vision-first multimodal framework for proactive mm-Wave 
         - Task-1 : Blockage Prediction
         - Task-2: UE Localization and Prediction
 
-### 🔍 Deepfake Detection using Curriculum Learning
+### Deepfake Detection using Curriculum Learning
 - Designed dynamic dataset blending strategy
-- Implemented custom `CurriculumDataset`
 - Improved robustness via monotonic fake-sample progression
 
 ---
@@ -64,7 +63,7 @@ This project presents a vision-first multimodal framework for proactive mm-Wave 
 
 ## 📫 Let's Connect
 - 📧 pratik08raj@gmail.com
-- 🌐 [GitHub]((https://github.com/PravalX)) | [LinkedIn](www.linkedin.com/in/praval-gupta-264347318)
+- 🌐 [GitHub](https://github.com/PravalX) | [LinkedIn](www.linkedin.com/in/praval-gupta-264347318)
 ---
 
 ⭐️ *"Building intelligent systems that bridge signal processing and deep learning."*

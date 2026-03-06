@@ -62,7 +62,7 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 pratik08raj@gmail.com
+-- pravaldav2005@gmail.com
 - 🌐 [GitHub](https://github.com/PravalX) | [LinkedIn](www.linkedin.com/in/praval-gupta-264347318)
 ---
 
